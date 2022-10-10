@@ -1,0 +1,39 @@
+#image1 {
+	height: 300px;
+	width: 260px;
+	border-radius: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+h1 {
+	font-family: copperplate;
+	text-align: center;
+}
+
+figcaption {
+	text-align: center;
+}
+
+body {
+	background-color: beige;
+	font-size: 18px;
+	font-family: fantasy;
+}
+
+.instructions {
+}
+
+.corner {
+	border-radius: 25px;
+	background: #73ad21;
+	padding: 20px;
+	width: 950px;
+	height: 450px;
+}
+
+.ingredients {
+	font-family: fantasy;
+}
